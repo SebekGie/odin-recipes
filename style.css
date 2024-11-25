@@ -1,0 +1,44 @@
+/* style.css */
+
+.main-header {
+    color: #ebdbb2;
+    text-align: center;
+}
+
+body {
+    background-color: #282828;
+}
+
+a:link {
+    color: #ebdbb2;
+}
+
+a:visited {
+    color: #b8bb26;
+
+}
+
+a:hover {
+    color: #fe8019
+}
+
+a:active {
+    color: #458588;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+a {
+    font-size: 26px;
+}
+
+li {
+    text-align: center;
+    list-style-type: none;
+}
+
