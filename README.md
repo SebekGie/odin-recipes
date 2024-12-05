@@ -1,3 +1,3 @@
 # OdinProject No1
-This is a first project that proof my basic 
+This is a first project that will proof my
 html skills.
